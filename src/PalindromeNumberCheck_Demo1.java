@@ -13,7 +13,7 @@ public class PalindromeNumberCheck_Demo1 {
             temp=temp/10;
         }
         if (num==sum) {
-            System.out.println("Palindrome");
+            System.out.println("Palindrome all");
         } else {
             System.out.println("Not Palindrome");
         }
