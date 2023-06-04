@@ -31,7 +31,6 @@ public class String_Demo1 {
 
         Boolean empty = s1.isEmpty();//to check the main string empty or not
         System.out.println("Is s1 epmty? = "+empty);
-
         
     }
     
