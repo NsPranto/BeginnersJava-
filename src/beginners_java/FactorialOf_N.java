@@ -12,12 +12,9 @@ public class FactorialOf_N {
 
         for (int i=n; i>=1; i--) {
             Fact=Fact*i;
-            System.out.print(i+"x");
-            
+            System.out.print(i+"x");            
         }
         System.out.println("Factorial of"+n+" = "+Fact);
-
-
     }
     
 }
